@@ -9,5 +9,11 @@ print your last name, then print your first name at the bottom.
 */
 
 void main() {
+  string x = 'first Name';
+  string y = 'last Name';
+  x = 'tohir';
+  y = 'Umarov';
+  print(y);
+  print(y);
   // write your code here
 }
